@@ -5,6 +5,7 @@ This is a list of public datasets for SQL databases.
 ## TOC
 
 * [PostgreSQL](#postgresql)
+* [SQLite](#sqlite)
 
 
 ## PostgreSQL
